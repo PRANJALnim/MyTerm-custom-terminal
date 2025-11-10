@@ -250,6 +250,5 @@ myterm_25CS60R39/
 ## Author
 
 - Name: Pranjal Nimbodiya
-- Roll No: 25CS60R39
 
 ---
